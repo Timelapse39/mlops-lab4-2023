@@ -1,0 +1,7 @@
+[core]
+    remote = mlops_remote
+['remote "mlops_remote"']
+    url = s3://mlops-adder
+    endpointurl = https://storage.yandexcloud.net
+    access_key_id = YCAJEJbDfaWXsuk-rcTBbEOmn
+    secret_access_key = YCNhclEaH5jas1F79aC1RcEamsQt8szFPluZEeLs
